@@ -1,0 +1,19 @@
+{
+  "name": "calendarappointment",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalafzal01/calendarappointment.git"
+  },
+  "author": "bilalafzal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilalafzal01/calendarappointment/issues"
+  },
+  "homepage": "https://github.com/bilalafzal01/calendarappointment#readme"
+}
